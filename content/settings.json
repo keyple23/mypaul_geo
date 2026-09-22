@@ -1,0 +1,182 @@
+{
+  "name": "마이폴학교 매거진",
+  "homeTitle": "대안학교 | 기숙형 대안학교 | 자기주도학습 - 마이폴학교",
+  "shortName": "마이폴학교",
+  "tagline": "대안학교부터 자사고·국제학교까지, 우리 아이 학교 고르는 기준",
+  "description": "충북 괴산의 기숙형 대안교육기관 마이폴학교가 정리한 학교 선택 정보. 대안학교 종류와 학비, 기숙사 학교, 자사고·특목고·국제학교·IB·특성화고 비교, 자기주도학습까지 다룹니다.",
+  "url": "",
+  "heroImage": "",
+  "ogImage": "og-default.png",
+  "organization": {
+    "name": "마이폴학교",
+    "legalName": "대안교육기관 마이폴학교",
+    "url": "https://mypaul.org",
+    "logo": "/images/logo.png",
+    "sameAs": [
+      "https://blog.naver.com/pmath1661"
+    ]
+  },
+  "defaultAuthor": {
+    "name": "마이폴학교",
+    "jobTitle": ""
+  },
+  "categories": [
+    {
+      "slug": "alternative",
+      "name": "대안학교",
+      "description": "대안학교 종류, 인가와 비인가, 학비, 학력 인정"
+    },
+    {
+      "slug": "compare",
+      "name": "학교 유형 비교",
+      "description": "자사고, 특목고, 영재학교, 국제학교, IB, 특성화고, 일반고"
+    },
+    {
+      "slug": "study",
+      "name": "자기주도학습",
+      "description": "시험과 강의 없이 스스로 공부하는 힘을 기르는 법"
+    },
+    {
+      "slug": "school",
+      "name": "마이폴학교",
+      "description": "교육과정, 기숙사 생활, 진학, 입학 안내"
+    }
+  ],
+  "brandColor": "#2e8b3e",
+  "logo": "logo.png",
+  "coverDefault": "",
+  "business": {
+    "type": "School",
+    "companyName": "대안교육기관 마이폴학교",
+    "ceo": "박왕근",
+    "address": "충청북도 괴산군 청천면 도원통미길 12-11",
+    "streetAddress": "청천면 도원통미길 12-11",
+    "addressLocality": "괴산군",
+    "addressRegion": "충청북도",
+    "postalCode": "28054",
+    "addressCountry": "KR",
+    "phone": "1661-6133",
+    "phone2": "",
+    "hours": "월~금 오전 9시 ~ 오후 3시 30분",
+    "openingHours": "Mo-Fr 09:00-15:30",
+    "email": "mypaulschool@naver.com",
+    "priceRange": "",
+    "bizNo": "118-82-69645",
+    "bizNoLabel": "고유번호",
+    "mailOrderNo": "",
+    "terms": "",
+    "privacy": "",
+    "areaServed": [
+      "충청북도",
+      "경기도",
+      "서울",
+      "대한민국"
+    ],
+    "medicalSpecialty": []
+  },
+  "keywords": [
+    "대안학교",
+    "기숙형 대안학교",
+    "대안학교 종류",
+    "대안학교 학비",
+    "경기도 대안학교",
+    "기숙사 학교",
+    "기숙사 중학교",
+    "기숙사 고등학교",
+    "자사고 학비",
+    "자사고 순위",
+    "자사고 준비",
+    "특목고 순위",
+    "영재학교",
+    "과학고 준비",
+    "국제중학교",
+    "국제학교 학비",
+    "IB 교육",
+    "특성화고 대학진학",
+    "일반고",
+    "자기주도학습"
+  ],
+  "nav": [
+    {
+      "label": "대안학교",
+      "href": "/keywords/대안학교/",
+      "children": [
+        {
+          "label": "대안학교 종류",
+          "href": "/keywords/대안학교-종류/"
+        },
+        {
+          "label": "대안학교 학비",
+          "href": "/keywords/대안학교-학비/"
+        },
+        {
+          "label": "기숙형 대안학교",
+          "href": "/keywords/기숙형-대안학교/"
+        },
+        {
+          "label": "경기도 대안학교",
+          "href": "/keywords/경기도-대안학교/"
+        }
+      ]
+    },
+    {
+      "label": "기숙사 학교",
+      "href": "/keywords/기숙사-학교/",
+      "children": [
+        {
+          "label": "기숙사 중학교·고등학교",
+          "href": "/keywords/기숙사-학교/"
+        },
+        {
+          "label": "기숙사 적응",
+          "href": "/articles/boarding-life/"
+        }
+      ]
+    },
+    {
+      "label": "학교 유형 비교",
+      "href": "/category/compare/",
+      "children": [
+        {
+          "label": "자사고",
+          "href": "/keywords/자사고/"
+        },
+        {
+          "label": "특목고·영재학교",
+          "href": "/keywords/특목고/"
+        },
+        {
+          "label": "국제학교·IB",
+          "href": "/keywords/국제학교/"
+        },
+        {
+          "label": "특성화고·일반고",
+          "href": "/keywords/특성화고/"
+        }
+      ]
+    },
+    {
+      "label": "자기주도학습",
+      "href": "/keywords/자기주도학습/",
+      "children": [
+        {
+          "label": "마이폴학교 안내",
+          "href": "/keywords/마이폴학교/"
+        }
+      ]
+    }
+  ],
+  "promo": {
+    "image": "",
+    "imageMobile": "",
+    "alt": "",
+    "href": "",
+    "show": false
+  },
+  "mainLink": {
+    "label": "홈페이지",
+    "note": "입학 안내와 설명회 신청은 공식 홈페이지에서 할 수 있습니다",
+    "contactTitle": "입학 문의",
+    "about": "학교 선택에 필요한 정보를 제공합니다. 각 학교의 전형과 학비는 해당 학교 모집요강을 기준으로 확인하세요."
+  }
+}
