@@ -1,8 +1,8 @@
 {
   "name": "마이폴학교 매거진",
-  "homeTitle": "대안학교 | 기숙형 대안학교 | 자기주도학습 - 마이폴학교",
+  "homeTitle": "대안학교 | 국제학교 | 기숙형 대안학교 - 마이폴학교",
   "shortName": "마이폴학교",
-  "tagline": "대안학교부터 자사고·국제학교까지, 우리 아이 학교 고르는 기준",
+  "tagline": "대안학교부터 국제학교·자사고까지, 우리 아이 학교 고르는 기준",
   "description": "충북 괴산의 기숙형 대안교육기관 마이폴학교가 정리한 학교 선택 정보. 대안학교 종류와 학비, 기숙사 학교, 자사고·특목고·국제학교·IB·특성화고 비교, 자기주도학습까지 다룹니다.",
   "url": "",
   "heroImage": "",
@@ -76,6 +76,7 @@
   },
   "keywords": [
     "대안학교",
+    "국제학교",
     "기숙형 대안학교",
     "대안학교 종류",
     "대안학교 학비",
@@ -94,7 +95,10 @@
     "IB 교육",
     "특성화고 대학진학",
     "일반고",
-    "자기주도학습"
+    "자기주도학습",
+    "국제학교 종류",
+    "대안학교 장단점",
+    "대안학교 입학"
   ],
   "nav": [
     {
@@ -116,6 +120,36 @@
         {
           "label": "경기도 대안학교",
           "href": "/keywords/경기도-대안학교/"
+        },
+        {
+          "label": "대안학교 장단점",
+          "href": "/articles/alt-school-pros-cons/"
+        },
+        {
+          "label": "대안학교 입학 절차",
+          "href": "/articles/alt-school-admission-process/"
+        }
+      ]
+    },
+    {
+      "label": "국제학교",
+      "href": "/keywords/국제학교/",
+      "children": [
+        {
+          "label": "국제학교 종류",
+          "href": "/articles/international-school-types/"
+        },
+        {
+          "label": "국제학교 학비",
+          "href": "/keywords/국제학교-학비/"
+        },
+        {
+          "label": "IB 교육",
+          "href": "/articles/international-ib/"
+        },
+        {
+          "label": "국제학교와 대안학교 비교",
+          "href": "/articles/international-vs-alternative/"
         }
       ]
     },
@@ -146,7 +180,7 @@
           "href": "/keywords/특목고/"
         },
         {
-          "label": "국제학교·IB",
+          "label": "국제학교",
           "href": "/keywords/국제학교/"
         },
         {
