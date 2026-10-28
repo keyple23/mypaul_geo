@@ -6,6 +6,7 @@ title: "국제학교 | 종류·입학 자격·학비·학력 인정·IB 한눈�
 description: "국제학교는 외국 교육과정으로 영어 수업을 하는 학교입니다. 외국인학교, 제주 국제학교, 경제자유구역 외국교육기관, 국제중학교의 차이와 입학 자격, 학비 구조, 국내 학력 인정, IB 교육까지 정리했습니다."
 priority: 98
 articles:
+  - international-school-admission
   - international-school-types
   - international-vs-alternative
   - international-ib

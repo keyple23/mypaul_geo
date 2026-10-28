@@ -6,6 +6,8 @@ title: "대안학교 | 뜻·종류·학력 인정·학비·입학까지 한 번�
 description: "대안학교는 시험과 진도 중심의 교육 대신 학생의 관심과 속도에 맞춘 교육을 하는 학교입니다. 인가 대안학교와 대안교육기관의 차이, 학력 인정, 학비, 장단점, 입학 절차, 고르는 기준까지 한 페이지에 정리했습니다."
 priority: 100
 articles:
+  - alt-school-recommend
+  - alt-vs-regular-school
   - alt-school-pros-cons
   - alt-school-admission-process
   - alt-school-accreditation
