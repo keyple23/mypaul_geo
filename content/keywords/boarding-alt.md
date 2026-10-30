@@ -6,6 +6,7 @@ title: "기숙형 대안학교 | 고르는 기준과 생활 방식"
 description: "기숙형 대안학교는 공부와 생활을 한 공간에서 하며 공동체 속에서 스스로 생활하는 힘을 기르는 학교입니다. 통학형과의 차이, 고를 때 확인할 것, 기숙 생활 적응법을 정리했습니다."
 priority: 94
 articles:
+  - chungbuk-alternative-school
   - boarding-life
   - alt-school-checklist
   - alt-school-accreditation
